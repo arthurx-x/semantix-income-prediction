@@ -46,7 +46,7 @@ def preprocess_data(file_path):
     return df, df_encoded
 
 # Caminho do arquivo (ajuste se necessário)
-caminho_arquivo = '/content/previsao_de_renda_II.csv'
+caminho_arquivo = 'previsao_de_renda_II.csv'
 df_raw, df_clean = preprocess_data(caminho_arquivo)
 
 # ==========================================
