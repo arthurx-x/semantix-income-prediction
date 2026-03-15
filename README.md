@@ -24,4 +24,4 @@ O projeto seguiu um pipeline robusto de Ciência de Dados:
 - A visualização dos dados aponta correlações claras entre estabilidade profissional e incremento nos vencimentos.
 
 ---
-*Desenvolvido por Arthur.*
+*Relatório de entrega do projeto de Ciência de Dados.*
