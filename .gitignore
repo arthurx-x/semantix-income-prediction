@@ -9,3 +9,8 @@ venv/
 bin/
 lib/
 share/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
